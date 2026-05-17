@@ -9,29 +9,6 @@ and designing systems and experiments that make those failure modes explicit.
 
 ---
 
-## 🔐 Security & Blockchain Projects
-
-### 🧪 Security Problem Design (Teaching Assistant Work)
-A collection of **security labs designed for an Information Security course**.
-These projects emphasize *problem design*, *threat modeling*, and *learning objectives*,
-rather than publishing full exploit solutions.
-
-📁 **security-problem-design**
-- **Project 1 — Double AES (ECB) Key Recovery**
-  - ECB mode structural leakage via images
-  - Meet-in-the-middle attack on Double AES-128
-  - Focus: cryptographic design pitfalls and key recovery feasibility
-
-- **Project 2 — Ethereum Toy Mixer Attack**
-  - Vulnerable commitment design using a custom hash
-  - Deposit–withdrawal linking and forged withdrawal construction
-  - Focus: smart contract authentication and mixer design flaws
-
-> These labs were designed to help students reason end-to-end:
-> from cryptographic assumptions to real attack consequences.
-
----
-
 ### 🏗️ Escrow Settlement Smart Contract Lab
 An **education-only Ethereum smart contract** for studying
 secure settlement architecture and mitigation patterns.
